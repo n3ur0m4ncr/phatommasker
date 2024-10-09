@@ -52,7 +52,7 @@ Tkinter (já incluído no Python)
 Instalação:
 Clone o repositório e execute o script:
 
-- git clone https://github.com/seuusuario/PhantomMasker.git
+- git clone https://github.com/n3ur0m4ncr/PhantomMasker.git
 - cd PhantomMasker
 - python phantommasker.py
 
